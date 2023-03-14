@@ -1,0 +1,19 @@
+.container_2 {
+  display: flex;
+  width: 1035px;
+  background-color: red;
+}
+.container_2__1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 350px;
+  width: 350px;
+  height: 87px;
+  margin-left: 38%;
+  font-size: 40px;
+}
+.container_2__2 {
+  width: 210px;
+  background-color: blue;
+}

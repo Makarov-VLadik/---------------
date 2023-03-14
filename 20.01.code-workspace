@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../20.01"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "верстка макаров"
+  }
+}
