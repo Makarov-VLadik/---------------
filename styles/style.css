@@ -1,11 +1,12 @@
 body {
   font-family: "Roboto", sans-serif;
+}
+
+.container_1 {
+  display: flex;
   width: 1440px;
   padding: 0;
   margin: 0;
-}
-.container_1 {
-  display: flex;
 }
 
 .container_1__photo {
