@@ -8,27 +8,36 @@
   margin-top: 50px;
   font-size: 40px;
 }
+.container_2__2 {
+  display: flex;
+  width: auto;
+  margin-right: 300px;
+}
 .container_2__3__photo_1 {
-  width: 106px;
+  width: 200px;
   margin-top: 50px;
-  margin-left: 150px;
+  margin-left: 120px;
 }
 .container_2__3__text_1 {
-  margin-left: 110px;
-  margin-top: 20px;
   font-size: 23px;
+  width: 200px;
 }
 .container_2__3__stick_1 {
-  margin-left: 110px;
+  width: 167px;
   border-width: 1px;
 }
 .container_2__3__text_1_1 {
   width: 150px;
-  margin-left: 110px;
   margin-top: 10px;
   font-size: 16px;
 }
 .container_2__3__photo_2 {
   width: 106px;
-  margin-left: 500px;
+  margin-left: 270px;
+  margin-top: 50px;
+}
+.container_2__3__text_2 {
+  font-size: 23px;
+  width: 400px;
+  margin-right: 100px;
 }
