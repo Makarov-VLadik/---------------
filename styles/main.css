@@ -21,6 +21,7 @@
 .container_2__3__text_1 {
   font-size: 23px;
   width: 200px;
+  margin-top: 10px;
 }
 .container_2__3__stick_1 {
   width: 167px;
@@ -33,11 +34,24 @@
 }
 .container_2__3__photo_2 {
   width: 106px;
-  margin-left: 270px;
+  margin-left: 180px;
   margin-top: 50px;
 }
 .container_2__3__text_2 {
   font-size: 23px;
   width: 400px;
-  margin-right: 100px;
+  margin-top: 25px;
+}
+.container_2__3__stick_2 {
+  width: 167px;
+  border-width: 1px;
+}
+.container_2__3__text_2_2 {
+  width: 250px;
+  margin-top: 10px;
+  font-size: 16px;
+}
+.container_2__3__photo_3 {
+  margin-left: 200px;
+  margin-top: 30px;
 }
